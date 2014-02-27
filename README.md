@@ -1,4 +1,0 @@
-HelloWorldMac
-=============
-
-HelloWorldMac repository
